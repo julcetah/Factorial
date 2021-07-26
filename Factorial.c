@@ -9,7 +9,7 @@ int main()
     for(contador = num; contador > 1; contador--){
         factorial = factorial*contador;
     }
-    printf("El factorial del_numero %i es = %i \n", num, factorial);
+    printf("El factorial del numero %i es = %i \n", num, factorial);
     getchar();
     return 0;
 }
